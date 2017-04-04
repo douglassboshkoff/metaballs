@@ -12,5 +12,5 @@ Check out our final writeup and the metaballs demo video for more information.
 
 [![Metaballs Thumbnail](https://img.youtube.com/vi/9YuR5wZ8RPI/0.jpg)](https://www.youtube.com/watch?v=9YuR5wZ8RPI)
 
-##References
+## References
 We used [this blog]( http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/) as a guide to developing our program. 
